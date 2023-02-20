@@ -1,2 +1,2 @@
 # Arduino-Braille-PyProj
-Python Scripts to be used for Arduino Systems
+Python Scripts to be used for Arduino-Braille-Parsing Systems
